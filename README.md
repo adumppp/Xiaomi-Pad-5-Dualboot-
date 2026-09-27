@@ -10,6 +10,7 @@ My hardest step was unlocking the bootloader. It took me about two weeks. I used
 ## Documentation
 
 - [My installation journey and checklist](docs/INSTALLATION-JOURNEY.md)
+- [Tool downloads, versions, and checksums](docs/TOOL-DOWNLOADS.md)
 - [Files intentionally excluded from this repository](docs/LOCAL-FILES.md)
 - [Official won-deployer guide](https://github.com/ArKT-7/won-deployer/blob/main/guide/English/prepare-en.md)
 - [Community Xiaomi Pad 5 Windows guide](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5)
@@ -29,7 +30,7 @@ YouTube link: **coming soon**
 
 This repository is for the **Xiaomi Pad 5, codename `nabu`**. Do not apply its images or partition instructions to another Xiaomi device, including the Pad 5 Pro models.
 
-Third-party executables, Windows images, drivers, and device-specific boot/recovery images are not mirrored here. Download current files from their original maintainers and verify them before use.
+A verified copy of the exact HyperSploit v1.0.0 binary I used is attached to this repository's [Tools used for this setup release](https://github.com/adumppp/Xiaomi-Pad-5-Dualboot-/releases/tag/setup-tools-v1). Xiaomi Mi Unlock and Google Platform-Tools must be downloaded from their official publishers; see the [tool download record](docs/TOOL-DOWNLOADS.md) for details.
 
 ## Credits
 
