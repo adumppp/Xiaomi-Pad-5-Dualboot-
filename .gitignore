@@ -1,0 +1,37 @@
+# Third-party executables and installers
+*.exe
+*.msi
+*.dll
+*.cab
+
+# Device, firmware, and operating-system images
+*.img
+*.bin
+*.elf
+*.mbn
+*.iso
+*.esd
+*.wim
+
+# Downloaded archives
+*.7z
+*.rar
+*.zip
+
+# Logs may contain serial numbers, usernames, or local paths
+*.log
+
+# Common local tool/driver folders
+platform-tools/
+minimal_adb_fastboot*/
+Mi Flash Unlock/
+ADB_Driver*/
+Fastboot Driver/
+latest_usb_driver_windows/
+Mediatek_SP_Driver*/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
